@@ -1,0 +1,18 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#Carousel
+{
+    background-color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px ;
+}
+
+
